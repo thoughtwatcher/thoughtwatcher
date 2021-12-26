@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thoughtwatcher
-- 👀 I’m interested in Penn Testing
-- 🌱 I’m currently learning how to Penn Test
-- 💞️ I’m looking to collaborate with other Penn Testers
+- 👀 I’m interested in Blockchain Development
+- 🌱 I’m currently learning how to Create Smart Contracts
+- 💞️ I’m looking to collaborate with other Blockchain Developers
 - 📫 How to reach me ...thoughtwatcher256@gmail.com
 
 <!---
